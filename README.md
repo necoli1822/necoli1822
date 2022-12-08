@@ -3,7 +3,9 @@ Sunju Kim
 
 * Affiliation:
 
-    Antimicrobial Resistant Pathogen Research Lab (ARPRL), School of Medicine, Sungkyunkwan University
+    Current Wonsik Lee Lab, School of Pharmacy, Sungkyunkwan University
+
+    2015 ~ 2022  Antimicrobial Resistant Pathogen Research Lab (ARPRL), School of Medicine, Sungkyunkwan University
 
 * Educational Qualifications:
 
@@ -19,13 +21,9 @@ Sunju Kim
     
 * Contact:
 
-    E-mail: n.e.coli.1822@gmail.com
+    E-mail: n.e.coli.1822@gmail.com / sunpole@g.skku.edu
     
     Phone: +82-10-2953-5328
-    
-    Office: +82-31-299-6234
-    
-    Fax: +82-31-299-6229
 
 <!---
 necoli1822/necoli1822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
