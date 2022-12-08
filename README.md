@@ -1,4 +1,4 @@
-Sunju Kim
+Sun Ju Kim
 =========
 
 * Affiliation:
