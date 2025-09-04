@@ -3,25 +3,31 @@ Sun Ju Kim
 
 * Affiliation:
 
-    Current Wonsik Lee Lab, School of Pharmacy, Sungkyunkwan University
+    2025 - Current  Antibacterial Resistance Lab, Institut Pasteur Korea
 
-    2015 ~ 2022  Antimicrobial Resistant Pathogen Research Lab (ARPRL), School of Medicine, Sungkyunkwan University
+    2024 - 2025     van Opijnen Lab, Boston Children's Hospital, Harvard Medical School
+
+    2022 - 2024     Molecular Bacteriology Lab, School of Pharmacy, Sungkyunkwan University
+
+    2015 - 2022     Antimicrobial Resistant Pathogen Research Lab (ARPRL), School of Medicine, Sungkyunkwan University
 
 * Educational Qualifications:
 
-    BS, Department of Natural Science, Sungkyunkwan University
+    PhD, School of Medicine, Sungkyunkwan University (2022)
+
+    BS, Department of Natural Science, Sungkyunkwan University (2015; early graduation)
     
-    Intergrated MSc-PhD, School of Medicine, Sungkyunkwan University
+    BS, Artificial Intelligence Major, Korea National Open University (2025)
     
 * Research Field:
 
-    - Antimicrobial Resistance of Gram-negative Pathogen
-    - Molecular Evolution of Bacteria
-    - Bioinformatics
-    
+    - Antimicrobial Resistance
+    - Molecular Epidemiology
+    - Sequencing technique and Bioinformatics
+        
 * Contact:
 
-    E-mail: n.e.coli.1822@gmail.com / sunpole@g.skku.edu
+    E-mail: n.e.coli.1822@gmail.com / sunju.kim@ip-korea.org
     
     Phone: +82-10-2953-5328
 
